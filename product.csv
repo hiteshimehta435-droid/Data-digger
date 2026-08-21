@@ -1,0 +1,6 @@
+product_id,productname,price,stock
+201,Laptop,55000.00,10
+202,Keyboard,1500.00,25
+203,Mouse,800.00,40
+204,Monitor,12000.00,15
+205,Headphones,2500.00,30

@@ -10,13 +10,19 @@ This project contains SQL scripts covering common database concepts such as:
 * Table creation
 * Inserting data
 * Selecting data
+* <img width="919" height="169" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/dd307dfe-b3c3-4ff5-a75e-21657f99a269" />
+
 * Filtering and sorting
 * Updating and deleting records
+* <img width="920" height="175" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/8d26a65b-9202-4523-b26e-ee4df2509db4" />
+
 * Aggregate functions
 * `GROUP BY` and `HAVING`
 * Joins
 * Subqueries
 * Views
+* <img width="922" height="174" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/684d0fd6-29cc-468a-a603-f41d56c9617f" />
+
 * Constraints
 * Indexes
 

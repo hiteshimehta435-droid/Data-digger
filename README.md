@@ -1,3 +1,6 @@
+<img width="1024" height="369" alt="ChatGPT Image Aug 24, 2026, 04_36_07 PM" src="https://github.com/user-attachments/assets/d5c345e7-16c7-470f-bf5b-607ae7879bf0" />
+
+
 # SQL Project
 
 A collection of SQL queries, database exercises, and examples for learning and practicing SQL.
